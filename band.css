@@ -11,10 +11,10 @@
   }
 }
 
-.jumbotron p:last-child {
+/*.jumbotron p:last-child {
   margin-bottom: 0;
 }
-
+*/
 .jumbotron h1 {
   font-weight: 300;
 }
